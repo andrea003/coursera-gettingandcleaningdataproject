@@ -1,7 +1,7 @@
 # coursera-gettingandcleaningdataproject
 project for  Coursera Getting and Cleaning Data 
 
-The R script run_analysis.R does the following:
+The R script `run_analysis.R` does the following:
 
 Downloads and unzip the dataset.
 
@@ -15,4 +15,4 @@ Appropriately labels the data set with descriptive variable names.
 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The result is in file tidy_data.txt.
+The result is in file `tidy_data.txt`.
